@@ -6,7 +6,6 @@ This project is part of a Data Analysis training program by **Digital Skill Afri
 The Palmoria Group case was provided as a capstone project to assess proficiency in:
 - Data cleaning and transformation
 - DAX and calculated columns
-- Business-oriented data storytelling
 - Power BI dashboard creation
 
 ## 📦 Dataset Summary
